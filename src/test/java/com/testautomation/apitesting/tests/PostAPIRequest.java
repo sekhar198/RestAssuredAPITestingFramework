@@ -1,6 +1,6 @@
 package com.testautomation.apitesting.tests;
 
-import org.hamcrest.Matcher;
+
 import org.hamcrest.Matchers;
 import org.testng.annotations.Test;
 
